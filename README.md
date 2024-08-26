@@ -1,5 +1,6 @@
 # Flight-Fare-Analysis
-C:\Users\k.k\Desktop\internship Project\flight new\plane.jpg
+![plane](https://github.com/user-attachments/assets/72110081-9e97-452a-a00c-287865f0eb60)
+
 ### Problem Statement
 
 Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travelers saying that flight ticket prices are so unpredictable. That’s why we will try to use machine learning to solve this problem. This can help airlines by predicting what prices they can maintain. 
